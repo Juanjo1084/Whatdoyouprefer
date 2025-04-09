@@ -1,0 +1,28 @@
+.home-main {
+    z-index: 1;
+    display: flex;
+}
+
+.home {
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.home button {
+    padding: 10px 20px;
+    border: none;
+    background-color: rgb(39, 39, 39);
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    transition: ease 0.2s;
+}
+
+.home button:hover {
+    color: black;
+    background-color: white;
+    transform: scale(1.05);
+}

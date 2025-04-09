@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "question": "¿Qué prefieres? ¿Vivir solo en una isla desierta o vivir en una ciudad subterránea?",
+      "options": [
+        { 
+          "text": "Isla desierta", 
+          "esquizofrenia": 5, 
+          "razonable": 2,
+          "image": "https://media.istockphoto.com/id/146762622/es/foto/vista-a%C3%A9rea-de-isla-desierta-caribbeanl.jpg?s=612x612&w=0&k=20&c=41wLjrk4mPJEjn8qCvyqH8G6Qbg0DAuTvM11F5QqTKY="
+        },
+        { 
+          "text": "Ciudad subterránea", 
+          "esquizofrenia": 1, 
+          "razonable": 6,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu_GSWiRR7W8-rUFW9Vmx43niuRahf6onblw&s"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "¿Qué prefieres? ¿Nunca volver a dormir o nunca volver a comer?",
+      "options": [
+        { 
+          "text": "Nunca dormir", 
+          "esquizofrenia": 6, 
+          "razonable": 3,
+          "image": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2xlZXB8ZW58MHx8MHx8fDA%3D"
+        },
+        { 
+          "text": "Nunca comer", 
+          "esquizofrenia": 2, 
+          "razonable": 5,
+          "image": "https://images.unsplash.com/photo-1529973565457-a60a2ccf750d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZWF0fGVufDB8fDB8fHww"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "¿Qué prefieres? ¿Escuchar voces en tu cabeza o ver cosas que no existen?",
+      "options": [
+        { 
+          "text": "Escuchar voces", 
+          "esquizofrenia": 7, 
+          "razonable": 1,
+          "image": "https://cuidateplus.marca.com/sites/default/files/styles/natural/public/cms/oir-voces.jpg.webp?itok=MMHCq206"
+        },
+        { 
+          "text": "Ver cosas", 
+          "esquizofrenia": 6, 
+          "razonable": 2,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKbgaU3U0kap6cUFvmjHgY9wv1oqFe3q3Ltg&s"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "¿Qué prefieres? ¿Ser inmortal pero sentir dolor o vivir solo 30 años sin dolor?",
+      "options": [
+        { 
+          "text": "Inmortal con dolor", 
+          "esquizofrenia": 4, 
+          "razonable": 3,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUP0tzRghXLhF0E-TLsPDyirMLPpKeLTehdw&s"
+        },
+        { 
+          "text": "30 años sin dolor", 
+          "esquizofrenia": 1, 
+          "razonable": 7,
+          "image": "https://previews.123rf.com/images/oneinchpunch/oneinchpunch2102/oneinchpunch210200881/166465032-hermosa-anciana-en-casa-y-mirando-a-la-c%C3%A1mara-sonriendo-bonito-retrato-de-adulto-de-m%C3%A1s-de-60.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "¿Qué prefieres? ¿Poder hablar con los muertos o viajar al futuro?",
+      "options": [
+        { 
+          "text": "Hablar con los muertos", 
+          "esquizofrenia": 6, 
+          "razonable": 2,
+          "image": "https://www.laprensa.hn/binrepository/1067x800/0c0/0d0/none/11004/MNRM/ia_7908124_20240702130918.jpg"
+        },
+        { 
+          "text": "Viajar al futuro", 
+          "esquizofrenia": 2, 
+          "razonable": 6,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJewRa2IPYOlCPlhD5bg-nfwnPLFV4nMjghQ&s"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "¿Qué prefieres? ¿Tener dos cabezas o cuatro brazos?",
+      "options": [
+        { 
+          "text": "Dos cabezas", 
+          "esquizofrenia": 5, 
+          "razonable": 3,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIWx0M_d7hqT1tzEPvx4qz0aeQsBzOnEUhkw&s"
+        },
+        { 
+          "text": "Cuatro brazos", 
+          "esquizofrenia": 2, 
+          "razonable": 6,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEmrSdrmRb7EhjczdS_WQPHTYQyeNf2MUppQ&s"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "¿Qué prefieres? ¿Saber exactamente cuándo morirás o saber exactamente cómo morirás?",
+      "options": [
+        { 
+          "text": "Cuándo moriré", 
+          "esquizofrenia": 3, 
+          "razonable": 5,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU6nUROVUpGTkBzk3OWWKexFRvKaRkNhKZVg&s"
+        },
+        { 
+          "text": "Cómo moriré", 
+          "esquizofrenia": 4, 
+          "razonable": 3,
+          "image": "https://cdn-ehapo.nitrocdn.com/GQwdYGithdfLEvAGsrBObhHgyuEOVolc/assets/images/optimized/rev-312ab16/neuroinjurycare.com/wp-content/uploads/2022/05/How-Common-Are-Car-Accident-Injuries-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "¿Qué prefieres? ¿Convertirte en un fantasma cuando mueras o reencarnar en un insecto?",
+      "options": [
+        { 
+          "text": "Fantasma", 
+          "esquizofrenia": 5, 
+          "razonable": 2,
+          "image": "https://imagenes.elpais.com/resizer/v2/https%3A%2F%2Fep01.epimg.net%2Fcultura%2Fimagenes%2F2018%2F03%2F16%2Factualidad%2F1521224412_923586_1521225390_noticia_fotograma.jpg?auth=8b4eee5145eb8f1719d07c14adfebad05140b078e186014bebba336ba3c94f82&width=1960&height=1103&smart=true"
+        },
+        { 
+          "text": "Insecto", 
+          "esquizofrenia": 1, 
+          "razonable": 7,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDjCyipeQg2hOvF6uwRfC8wC6v17b9ys1P4g&s"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "¿Qué prefieres? ¿Poder volar pero ser invisible para todos o ser el centro de atención pero no poder hablar?",
+      "options": [
+        { 
+          "text": "Volar e invisible", 
+          "esquizofrenia": 6, 
+          "razonable": 2,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZIhIweXDMhTs95-fXosvQnOrDIMeAbxM1Og&s"
+        },
+        { 
+          "text": "Centro de atención sin hablar", 
+          "esquizofrenia": 3, 
+          "razonable": 5,
+          "image": "https://img.freepik.com/vector-premium/personaje-femenino-asume-que-otras-personas-estan-interesadas-ella-o-que-miran-como-si-centro-atencion-estuviera-constantemente-vector-ilustracion-dibujos-animados-estilo-plano_610956-253.jpg"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "¿Qué prefieres? ¿Que todos los espejos reflejen una versión diferente de ti o que todos los relojes marquen una hora aleatoria?",
+      "options": [
+        { 
+          "text": "Espejos raros", 
+          "esquizofrenia": 7, 
+          "razonable": 1,
+          "image": "https://cdn.eldestapeweb.com/eldestape/032023/1680222320572.jpg?cw=1280&ch=720"
+        },
+        { 
+          "text": "Relojes locos", 
+          "esquizofrenia": 6, 
+          "razonable": 2,
+          "image": "https://rlv.zcache.es/reloj_loco-r42a360a1bb9a4018bb8145cb96c6a96a_s0y30_8byvr_644.jpg"
+        }
+      ]
+    }
+  ]
+  
